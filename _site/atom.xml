@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dayda</title>
+  <updated>2020-11-12T00:00:00Z</updated>
+  <link rel="self" href="http://localhost:4000/atom.xml"/>
+  <author><name>Kin Lane</name></author>
+  <id>http://localhost:4000/atom.xml</id>
+	<entry>
+    <title>Youth Admission and Discharge Demographics  Beginning 2003</title>
+    <link href="http://apievangelist.com/2020/11/12/youth-admission-and-discharge-demographics-beginning-2003.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This dataset provides county-level demographic data (sex, adjudication, age, race/ethnicity, and service setting) for youth admitted to and discharged from the care and custody of the Office of Children and Family Services (OCFS) each year. Data are counted using a youth’s first admission or discharge in a calendar year. Admissions data are aggregate based on the responsible (court) county. Discharges data are aggregate based on the county of residence.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/youth-admission-and-discharge-demographics-beginning-2003.html</id>
+  </entry><entry>
+    <title>Workforce Development Catalogue of Funding</title>
+    <link href="http://apievangelist.com/2020/11/12/workforce-development-catalogue-of-funding.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[To provide a catalogue listing and describing various state and federal funding programs and/or tax credits available for workforce development and preparation, adult education, and skills training.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/workforce-development-catalogue-of-funding.html</id>
+  </entry><entry>
+    <title>Workers' Compensation Board Hearing Site Locations</title>
+    <link href="http://apievangelist.com/2020/11/12/workers'-compensation-board-hearing-site-locations.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The New York State Workers’ Compensation Board (WCB) has locations for hearings throughout the state.  This data set provides the address for those hearing sites, as well as the contact phone number and district website, where available.   This data set is a current list and is only updated as needed.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/workers'-compensation-board-hearing-site-locations.html</id>
+  </entry><entry>
+    <title>Wind Energy Projects 2004-2015</title>
+    <link href="http://apievangelist.com/2020/11/12/wind-energy-projects-2004-2015.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Table lists existing and proposed major wind projects in NYS, their locations, relative electric generating potential (project nameplate size), and project status (proposed, in-construction, or operational).
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/wind-energy-projects-2004-2015.html</id>
+  </entry><entry>
+    <title>Wildland Search and Rescue Missions by NYS Forest Rangers Beginning 2012</title>
+    <link href="http://apievangelist.com/2020/11/12/wildland-search-and-rescue-missions-by-nys-forest-rangers-beginning-2012.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Search and Rescue incidents for which the Division of Forest Protection has responded
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/wildland-search-and-rescue-missions-by-nys-forest-rangers-beginning-2012.html</id>
+  </entry><entry>
+    <title>Weigh-In-Motion Station Vehicle Traffic Counts 2013</title>
+    <link href="http://apievangelist.com/2020/11/12/weigh-in-motion-station-vehicle-traffic-counts-2013.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This data set is a list of daily vehicle counts, in each direction, taken at the weigh-in-motion (WIM) stations operated by the New York State Department of Transportation (NYSDOT) during the 2013 calendar year.  Daily totals by direction are provided, as well as totals in each of 13 vehicle-type classes, and latitude-longitude locations of each station.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/weigh-in-motion-station-vehicle-traffic-counts-2013.html</id>
+  </entry><entry>
+    <title>Weatherization Assistance Program Provider Directory</title>
+    <link href="http://apievangelist.com/2020/11/12/weatherization-assistance-program-provider-directory.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Directory of providers for the Weatherization Assistance Program serving all 62 counties in the State of New York.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/weatherization-assistance-program-provider-directory.html</id>
+  </entry><entry>
+    <title>Waterbody Inventory & Priority Waterbodies</title>
+    <link href="http://apievangelist.com/2020/11/12/waterbody-inventory-priority-waterbodies.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Waterbody Inventory/Priority Waterbodies List (WI/PWL) dataset is an inventory of the state’s surface water quality. This dataset provides a summary of general water quality conditions, tracks the degree to which a waterbody supports its designated uses, and monitors progress toward the identification and resolution of water quality problems, pollutants, and sources.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/waterbody-inventory-priority-waterbodies.html</id>
+  </entry><entry>
+    <title>Waterbody Classifications</title>
+    <link href="http://apievangelist.com/2020/11/12/waterbody-classifications.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This data set provides the water quality classifications of New York State’s lakes, rivers, streams and ponds, collectively referred to as waterbodies. All water bodies in the state are provided a water quality classification based on existing, or expected best usage, of each waterbody or waterbody segment. Under New York State’s Environmental Conservation Law (ECL), Title 5 of Article 15, certain waters of the state are protected on the basis of their classification. Streams and small waterbodies located in the course of a stream that are designated as C (T) or higher (i.e., C (TS), B, or A) are collectively referred to as “protected streams.”
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/waterbody-classifications.html</id>
+  </entry><entry>
+    <title>Water Withdrawals by Facility  Beginning 2009</title>
+    <link href="http://apievangelist.com/2020/11/12/water-withdrawals-by-facility-beginning-2009.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Data regarding water withdrawals is collected by New York State Department of Environmental Conservation (DEC).  The reporting requirements have expanded since collection began in 1990. Data is currently collected in accordance with the requirements of ECL 15-1501. ECL 15-1501 requires a DEC permit and annual usage reporting for all facilities using water for any purpose and having the capacity to withdraw 100,000 gallons or more per day of surface or groundwater. These facilities may or may not be permitted with other agencies that regulate water supplies in New York State.  This dataset begins with 2009 data and includes facility name, town, county and withdrawal information.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/water-withdrawals-by-facility-beginning-2009.html</id>
+  </entry><entry>
+    <title>Water Furnace Geothermal Heat Pumps Symphony Time Series April 2015 - November 2016</title>
+    <link href="http://apievangelist.com/2020/11/12/water-furnace-geothermal-heat-pumps-symphony-time-series-april-2015-november-2016.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
+
+Water Furnace Geothermal Heat Pumps: Symphony Time Series dataset includes both measured and calculated values provided by the Symphony monitoring system. The dataset only includes geothermal heat pump installations in upstate New York beginning as early as April 2015. This dataset was compiled when performing work contracted for and sponsored by the New York State Energy Research and Development Authority (NYSERDA).
+
+NYSERDA offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and accelerate economic growth. reduce reliance on fossil fuels. To learn more about NYSERDA’s programs, visit nyserda.ny.gov or follow us on Twitter, Facebook, YouTube, or Instagram.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/water-furnace-geothermal-heat-pumps-symphony-time-series-april-2015-november-2016.html</id>
+  </entry><entry>
+    <title>Water Furnace Geothermal Heat Pumps Site Characteristics April 2015 - November 2016</title>
+    <link href="http://apievangelist.com/2020/11/12/water-furnace-geothermal-heat-pumps-site-characteristics-april-2015-november-2016.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
+
+Water Furnace Geothermal Heat Pumps: Site Characteristics dataset includes data from geothermal heat pump installations in upstate New York provided by the contractors responsible for the installation of each system. The characteristics were compiled when performing work contracted for and sponsored by the New York State Energy Research and Development Authority (NYSERDA).
+
+NYSERDA offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and accelerate economic growth. reduce reliance on fossil fuels. To learn more about NYSERDA’s programs, visit nyserda.ny.gov or follow us on Twitter, Facebook, YouTube, or Instagram.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/water-furnace-geothermal-heat-pumps-site-characteristics-april-2015-november-2016.html</id>
+  </entry><entry>
+    <title>Watchable Wildlife Sites</title>
+    <link href="http://apievangelist.com/2020/11/12/watchable-wildlife-sites.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This data set contains point locations of wildlife viewing sites as shown in The New York Wildlife Viewing Guide. These sites are also known as Watchable Wildlife Sites.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/watchable-wildlife-sites.html</id>
+  </entry><entry>
+    <title>Wastewater Treatment Plants</title>
+    <link href="http://apievangelist.com/2020/11/12/wastewater-treatment-plants.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Data regarding wastewater treatment plants with permits issued under the New York State Pollutant Discharge Elimination System
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/wastewater-treatment-plants.html</id>
+  </entry><entry>
+    <title>Victim Assistance Program (VAP) Business Offices</title>
+    <link href="http://apievangelist.com/2020/11/12/victim-assistance-program-vap-business-offices.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Since 1981, OVS has had a legislative appropriation for the purpose of making grants for the provision of local victim/witness assistance and services. Initially, twenty-three programs received grant funds for this purpose. Currently, 186 victim/witness assistance programs have grant awards from the OVS, ranging from $32,000 to over $1.8 million. OVS supports statewide, comprehensive victim/witness assistance services in all sectors of the community. Criminal justice agencies, non-profit victim programs and specific municipal programs all receive support. Examples include DA offices, Probation Departments, YWCAs, local police departments, hospitals, and nonprofit organizations. This data set contains all service locations associated with OVS VOCA awards. It should be noted that some programs do not have a physical address listed, instead, they show a PO Box. In these cases the physical addresses are safeguarded as they are generally Domestic Violence shelters providing services to victims who may be in danger were their location to be disclosed.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/victim-assistance-program-vap-business-offices.html</id>
+  </entry><entry>
+    <title>Vehicle, Snowmobile, and Boat Registrations</title>
+    <link href="http://apievangelist.com/2020/11/12/vehicle-snowmobile-and-boat-registrations.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This dataset contains the file of vehicle, snowmobile and boat registrations in NYS. Registrations expired more than 2 years are excluded. Records that have a scofflaw, revocation and/or suspension are included with indicators specifying those kinds of records.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/vehicle-snowmobile-and-boat-registrations.html</id>
+  </entry><entry>
+    <title>Utility Energy Registry Monthly ZIP Code Energy Use Beginning 2016</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-zip-code-energy-use-beginning-2016.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Utility Energy Registry (UER) is a database platform that provides streamlined public access to aggregated community-scale utility-reported energy data. The UER is intended to promote and facilitate community-based energy planning and energy use awareness and engagement. On April 19, 2018, the New York State Public Service Commission (PSC) issued the Order Adopting the Utility Energy Registry under regulatory CASE 17-M-0315. The order requires utilities under its regulation to develop and report community energy use data to the UER.
+
+This dataset includes electricity and natural gas usage data reported at the ZIP Code level. Other UER datasets include energy use data reported at the city, town, village, and county level.
+
+Data in the UER can be used for several important purposes such as planning Community Choice Aggregation (CCA) programs, developing community greenhouse gas emissions inventories, and relating how certain energy projects and policies may affect a particular community.  It is important to note that the data are subject to privacy screening and fields that fail the privacy screen are withheld.
+
+The New York State Energy Research and Development Authority (NYSERDA) offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and accelerate economic growth. reduce reliance on fossil fuels. To learn more about NYSERDA’s programs, visit nyserda.ny.gov or follow us on Twitter, Facebook, YouTube, or Instagram.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-zip-code-energy-use-beginning-2016.html</id>
+  </entry><entry>
+    <title>Utility Energy Registry Monthly County Energy Use Beginning 2016</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-county-energy-use-beginning-2016.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Utility Energy Registry (UER) is a database platform that provides streamlined public access to aggregated community-scale utility-reported energy data. The UER is intended to promote and facilitate community-based energy planning and energy use awareness and engagement. On April 19, 2018, the New York State Public Service Commission (PSC) issued the Order Adopting the Utility Energy Registry under regulatory CASE 17-M-0315. The order requires utilities under its regulation to develop and report community energy use data to the UER.
+
+This dataset includes electricity and natural gas usage data reported at the county level. Other UER datasets include energy use data reported at the city, town, and village, and ZIP code level.
+
+Data in the UER can be used for several important purposes such as planning Community Choice Aggregation (CCA) programs, developing community greenhouse gas emissions inventories, and relating how certain energy projects and policies may affect a particular community.  It is important to note that the data are subject to privacy screening and fields that fail the privacy screen are withheld.
+
+The New York State Energy Research and Development Authority (NYSERDA) offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and accelerate economic growth. reduce reliance on fossil fuels. To learn more about NYSERDA’s programs, visit nyserda.ny.gov or follow us on Twitter, Facebook, YouTube, or Instagram.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-county-energy-use-beginning-2016.html</id>
+  </entry><entry>
+    <title>Utility Energy Registry Monthly Community Energy Use Beginning 2016</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-community-energy-use-beginning-2016.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Utility Energy Registry (UER) is a database platform that provides streamlined public access to aggregated community-scale utility-reported energy data. The UER is intended to promote and facilitate community-based energy planning and energy use awareness and engagement. On April 19, 2018, the New York State Public Service Commission (PSC) issued the Order Adopting the Utility Energy Registry under regulatory CASE 17-M-0315. The order requires utilities under its regulation to develop and report community energy use data to the UER.
+
+This dataset includes electricity and natural gas usage data reported at the city, town, and village level. Other UER datasets include energy use data reported at the county and ZIP code level.
+
+Data in the UER can be used for several important purposes such as planning Community Choice Aggregation (CCA) programs, developing community greenhouse gas emissions inventories, and relating how certain energy projects and policies may affect a particular community.  It is important to note that the data are subject to privacy screening and fields that fail the privacy screen are withheld.
+
+The New York State Energy Research and Development Authority (NYSERDA) offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and accelerate economic growth. reduce reliance on fossil fuels. To learn more about NYSERDA’s programs, visit nyserda.ny.gov or follow us on Twitter, Facebook, YouTube, or Instagram.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-energy-registry-monthly-community-energy-use-beginning-2016.html</id>
+  </entry><entry>
+    <title>Utility Customer Service Performance Indicators Beginning 2009</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-customer-service-performance-indicators-beginning-2009.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Summary of the NYS gas and electric utilities’ customer service performance indicators for each of the last three calendar years. Reported by the utilities on a uniform basis, these performance indicators allow comparative analysis of customer service, identification of overall trends in customer service, and identification of service deficiencies.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-customer-service-performance-indicators-beginning-2009.html</id>
+  </entry><entry>
+    <title>Utility Company Customer Service Response Index (CSRI) Beginning 2005</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-company-customer-service-response-index-csri-beginning-2005.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Customer Service Response Index tracks utility performance and identifies the current level of customer service and responsiveness delivered by each utility service provider under the Commission’s jurisdiction with respect to consumer complaints filed with the Commission.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-company-customer-service-response-index-csri-beginning-2005.html</id>
+  </entry><entry>
+    <title>Utility Base Rate Change  - Delivery Rates Beginning 1998</title>
+    <link href="http://apievangelist.com/2020/11/12/utility-base-rate-change-delivery-rates-beginning-1998.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Summary of utility base rate changes since 1998 for major NYS utilities.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/utility-base-rate-change-delivery-rates-beginning-1998.html</id>
+  </entry><entry>
+    <title>US Patents Issued to Health Research Inc on Behalf of Roswell Park Cancer Institute</title>
+    <link href="http://apievangelist.com/2020/11/12/us-patents-issued-to-health-research-inc-on-behalf-of-roswell-park-cancer-institute.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[This dataset is a list of active patents issued to Health Research, Inc. on behalf of Roswell Park Cancer Institute (RPCI).  It includes the patent number and date of issuance as well as the patent title.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/us-patents-issued-to-health-research-inc-on-behalf-of-roswell-park-cancer-institute.html</id>
+  </entry><entry>
+    <title>Uniform Code Annual Report Submissions Beginning 2007</title>
+    <link href="http://apievangelist.com/2020/11/12/uniform-code-annual-report-submissions-beginning-2007.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[The Division of Building Standards and Codes (BSC) administers the mandatory statewide Uniform Fire Prevention and Building Code (Uniform Code) and State Energy Conservation Construction Code (Energy Code).  The Division provides technical assistance, administers variances, delivers educational courses, oversees the enforcement practices of local governments and serves as secretariat to the State Fire Prevention and Building Code Council.  The Division program was created by Chapter 707 of the Laws of 1981.  The New York Legislature enacted Article 18 of the Executive Law, directing the formulation of a Uniform Fire Prevention and Building Code (Uniform Code).  The Uniform Code is designed to cover new construction, building rehabilitation, fire safety, and housing maintenance.
+
+This dataset provides annually reported data on administration and enforcement of the Uniform Code in each local government jurisdiction pursuant to 19 NYCRR 1203.
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/uniform-code-annual-report-submissions-beginning-2007.html</id>
+  </entry><entry>
+    <title>Unemployment Insurance Initial Claims Statewide By Month Beginning 1971</title>
+    <link href="http://apievangelist.com/2020/11/12/unemployment-insurance-initial-claims-statewide-by-month-beginning-1971.html"/>
+    <updated>2020-11-12T00:00:00Z</updated>
+    <content><![CDATA[Dataset contains monthly counts, from 1971 to present, of initial claims for regular unemployment insurance benefits.
+Initial Claims include new claims as well as subsequent additional claims filed. New claims are filed in person, by mail, telephone or other means to request a determination of entitlement to and eligibility for compensation which results in an agency generated document of an appealable monetary determination provided to the potential claimant. Additional claims are filed during an existing benefit year due to new unemployment when a break of one week or more has occurred in the claim series due to intervening employment.
+Data are provided for New York State. Counts include only state residents who file a claim (excluding out-of-state residents).
+]]></content>
+    <id>http://apievangelist.com/2020/11/12/unemployment-insurance-initial-claims-statewide-by-month-beginning-1971.html</id>
+  </entry>
+</feed>
