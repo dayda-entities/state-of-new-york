@@ -1,7 +1,9 @@
 ---
-title: NYS Thruway Origin and Destination Points for All Vehicles  2008 - 2014
-created: '2020-11-12T04:00:29.024652'
-modified: '2020-11-12T04:00:29.024664'
+title: >-
+  NYS Thruway Origin and Destination Points for All Vehicles - 15 Minute
+  Intervals 2019 Q4
+created: '2020-11-12T03:59:21.577568'
+modified: '2020-11-12T03:59:21.577579'
 state: active
 type: dataset
 tags:
@@ -17,9 +19,9 @@ tags:
   - Traffic
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/tw9e-7nms/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/tw9e-7nms/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/2gh5-69b8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/2gh5-69b8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset contains the number of vehicles, cash and E-ZPass, entering and exiting the New York State Thruway.  The Origin and Destination numbers are organized by entrance and exit point.and by vehicle class.
+This file contains data on the number and types of vehicles that entered from each entry point on the tolled section of the Thruway with their exit points.
