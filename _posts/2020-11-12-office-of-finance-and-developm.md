@@ -1,7 +1,9 @@
 ---
-title: Office of Finance and Development 9% Low-Income Housing Tax Credits
-created: '2020-11-12T04:00:24.399265'
-modified: '2020-11-12T04:00:24.399275'
+title: >-
+  Office of Finance and Development State Low-Income Housing Tax Credits
+  (SLIHTC) and Subsidy Only Projects
+created: '2020-11-12T03:59:56.864643'
+modified: '2020-11-12T03:59:56.864653'
 state: active
 type: dataset
 tags:
@@ -12,9 +14,9 @@ tags:
   - Tax Credit
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/sfm6-zmzx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/sfm6-zmzx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/f6sn-r72s/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/f6sn-r72s/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Listing of tax credits awarded by NYS Homes & Community Renewal’s Office of Finance and Development. Details include project identifier, developer name, project location, and project types.
+Listing of state tax credit and subsidies awarded by NYS Homes & Community Renewal’s Office of Finance and Development. Details include award amount, developer name, project location, and accomplishments for completed projects based on project types.
