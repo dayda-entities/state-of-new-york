@@ -1,23 +1,21 @@
 ---
 title: >-
-  Driver License, Permit, and Non-Driver Identification Cards Issued by County,
-  Age, and Gender 2011 - 2015
-created: '2020-11-12T04:00:23.705243'
-modified: '2020-11-12T04:00:23.705252'
+  Driver License, Permit, and Non-Driver Identification Cards Issued as of
+  August 30, 2017
+created: '2020-11-12T03:59:41.544142'
+modified: '2020-11-12T03:59:41.544149'
 state: active
 type: dataset
 tags:
-  - Dmv
-  - Id Card
-  - Junior License
+  - Driver
+  - Identification
   - License
   - Permit
-  - Photo Document
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/rsxa-xf6b/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/rsxa-xf6b/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/a4s2-d9tt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/a4s2-d9tt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Annual data on the number of DMV issued photo document holders broken out by County of residence, age, and gender.
+This data set includes general demographics for all persons who hold, or have recently held a: Driver License, Permit or Non-Driver Identification Card (a.k.a. credential) issued by the New York State Department of Motor Vehicles.
