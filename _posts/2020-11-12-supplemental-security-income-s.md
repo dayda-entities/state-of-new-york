@@ -1,9 +1,7 @@
 ---
-title: >-
-  Supplemental Security Income (SSI) Living Arrangements by Region Beginning
-  2002
-created: '2020-11-12T04:00:05.347670'
-modified: '2020-12-03T23:54:55.124657'
+title: Supplemental Security Income (SSI) Recipients and Expenditures Beginning 2002
+created: '2020-11-12T04:00:10.909093'
+modified: '2020-12-03T23:54:58.040908'
 state: active
 type: dataset
 tags:
@@ -16,9 +14,9 @@ tags:
   - Supplemental Security Income
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/iuu6-qurh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/iuu6-qurh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/kym4-b5dg/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/kym4-b5dg/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-These data are monthly listings of the number of recipients in each living arrangement classification in the Supplemental Security Income Program, by region.
+These data are monthly listings of recipients and expenditures for the Supplemental Security Income Program.
