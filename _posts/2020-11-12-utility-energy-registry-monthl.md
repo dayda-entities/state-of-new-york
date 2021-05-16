@@ -1,14 +1,13 @@
 ---
-title: Utility Energy Registry Monthly County Energy Use Beginning 2016
-created: '2020-11-12T03:59:25.935920'
-modified: '2020-12-07T16:35:22.609916'
+title: Utility Energy Registry Monthly ZIP Code Energy Use Beginning 2016
+created: '2020-11-12T04:00:29.487592'
+modified: '2020-12-07T16:35:51.710621'
 state: active
 type: dataset
 tags:
   - Accounts
   - Capacity
   - Cca
-  - City
   - Community
   - Community Choice Aggregation
   - Consumption
@@ -20,20 +19,21 @@ tags:
   - Mwh
   - Natural Gas
   - Therms
-  - Town
   - Uer
   - Utility Energy Registry
-  - Village
+  - Zip
+  - Zip Code
+  - Zipcode
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/47km-hhvs/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/47km-hhvs/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/tzb9-c2c6/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/tzb9-c2c6/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
 The Utility Energy Registry (UER) is a database platform that provides streamlined public access to aggregated community-scale utility-reported energy data. The UER is intended to promote and facilitate community-based energy planning and energy use awareness and engagement. On April 19, 2018, the New York State Public Service Commission (PSC) issued the Order Adopting the Utility Energy Registry under regulatory CASE 17-M-0315. The order requires utilities under its regulation to develop and report community energy use data to the UER. 
 
-This dataset includes electricity and natural gas usage data reported at the county level. Other UER datasets include energy use data reported at the city, town, and village, and ZIP code level.  
+This dataset includes electricity and natural gas usage data reported at the ZIP Code level. Other UER datasets include energy use data reported at the city, town, village, and county level.  
 
 Data in the UER can be used for several important purposes such as planning Community Choice Aggregation (CCA) programs, developing community greenhouse gas emissions inventories, and relating how certain energy projects and policies may affect a particular community.  It is important to note that the data are subject to privacy screening and fields that fail the privacy screen are withheld.
 
