@@ -1,9 +1,9 @@
 ---
 title: >-
-  Earned Income Tax Credit (EITC) Claims by Credit Type and Place of Residence
-  Beginning Tax Year 1994
-created: '2020-11-12T03:59:33.389558'
-modified: '2020-11-12T03:59:33.389569'
+  Earned Income Tax Credit (EITC) Claims by Credit Type and Size of Earned
+  Income Beginning Tax Year 1994
+created: '2020-11-12T03:59:25.107769'
+modified: '2020-11-12T03:59:25.107775'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Tax
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/6q7b-8vuf/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/6q7b-8vuf/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/3sqx-ew2z/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/3sqx-ew2z/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
