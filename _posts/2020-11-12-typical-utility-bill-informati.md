@@ -1,19 +1,23 @@
 ---
-title: Typical Utility Bill Information Gas Beginning 2011
-created: '2020-11-12T03:59:46.377366'
-modified: '2020-11-12T03:59:46.377376'
+title: Typical Utility Bill Information Electric Beginning 2011
+created: '2020-11-12T03:59:37.488415'
+modified: '2020-11-12T03:59:37.488422'
 state: active
 type: dataset
 tags:
   - Average Bills
-  - Gas Bills
-  - Typical Gas Bills
+  - Electric Bills
+  - Typical Electric Bills
   - Utility Bills
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/c6pb-n7gq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/c6pb-n7gq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/87qg-62za/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/87qg-62za/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Typical average monthly gas bills for residential, commercial and industrial customers.  Customer usage is in Therms or CCF.  -Residential customer bills are shown for usages of 0, 10, 20, 50, 100, 200, 300, and 400 CCF or Therms.  -Commercial and Industrial customer bills are shown for usages of 10,000, 100,000, and 1,000,000 CCF or Therms.
+Typical average monthly electric bills for residential, commercial and industrial customers. 
+
+-Residential customer bills are computed for usages of 0, 250, 500, 750, 3000, and 5000 KWH. 
+-Commercial customer bills are computed demands, load factors and usages of: - 10 KW, 20%, and 1440 KWH - 10 KW, 30%, and 2160 KWH  - 50 KW, 25%, and 9000 KWH - 50 KW, 35%, and 12600 KWH - 250 KW, 30%, and 54000 KWH - 250 KW, 50%, and 9000 KWH
+-Industrial customer bills are computed demands, load factors and usages of: - 500 KW, 40%, and 144000 KWH - 2000 KW, 50%, and 720000 KWH  - 10000 KW, 65%, and 4680000 KWH
