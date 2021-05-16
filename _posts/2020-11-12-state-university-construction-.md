@@ -1,24 +1,21 @@
 ---
-title: >-
-  State University Construction Fund (SUCF) Advertised Procurements Beginning
-  2000
-created: '2020-11-12T04:00:35.039878'
-modified: '2020-12-07T16:35:55.741787'
+title: State University Construction Fund (SUCF) Projects Beginning 1989
+created: '2020-11-12T03:59:36.531685'
+modified: '2020-12-03T23:54:32.546022'
 state: active
 type: dataset
 tags:
   - Capital
-  - Construction
-  - Contract
   - Education
+  - Project
   - State University Construction Fund
   - Sucf
-  - Suny
+  - Suny Construction
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/vtxv-3j2b/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/vtxv-3j2b/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/7xmz-2ur8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/7xmz-2ur8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Listing of all design procurements advertised
+Listing of Fund and Campus Managed Projects Funded through State University Construction Fund Appropriations
