@@ -1,10 +1,9 @@
 ---
 title: >-
-  Personal Income Tax Filers, Summary Dataset 3 - Statewide Major Items and
-  Income & Deduction Components by Liability Status and Detail Income Range
-  Beginning Tax Year 2015
-created: '2020-11-12T04:00:23.812277'
-modified: '2020-12-03T23:55:07.012258'
+  Personal Income Tax Filers, Summary Dataset 4 - County-level Major Items and
+  Income & Deduction Components by Wide Income Range Beginning Tax Year 2015
+created: '2020-11-12T04:00:20.867783'
+modified: '2020-12-03T23:55:04.072409'
 state: active
 type: dataset
 tags:
@@ -16,8 +15,8 @@ tags:
   - Tax
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/rt8x-r6c8/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/rt8x-r6c8/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/qjqv-zrwt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/qjqv-zrwt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
