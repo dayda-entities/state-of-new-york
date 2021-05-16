@@ -1,9 +1,7 @@
 ---
-title: >-
-  New York State Corporate Tax Credits by Basis of Taxation Beginning Tax Year
-  2001
-created: '2020-11-12T03:59:22.243884'
-modified: '2020-11-12T03:59:22.243895'
+title: New York State Corporate Tax Credit Utilization Beginning Tax Year 2001
+created: '2020-11-12T03:59:32.392354'
+modified: '2020-11-12T03:59:32.392362'
 state: active
 type: dataset
 tags:
@@ -12,8 +10,8 @@ tags:
   - General Business Corporation Franchise Tax Credits
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/2rxu-2uqk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/2rxu-2uqk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/6axi-iwd2/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/6axi-iwd2/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
