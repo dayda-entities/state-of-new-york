@@ -1,22 +1,21 @@
 ---
 title: >-
-  State University of New York (SUNY) Trends in Enrollment of Students by
-  Race/Ethnicity and by SUNY Sector Beginning Fall 2002
-created: '2020-11-12T04:00:12.873033'
-modified: '2020-11-12T04:00:12.873044'
+  State University of New York (SUNY) Employees By Employment Status Beginning
+  Fall 2011
+created: '2020-11-12T04:00:22.309791'
+modified: '2020-11-12T04:00:22.309798'
 state: active
 type: dataset
 tags:
-  - Enrollment
-  - Ethnicity
+  - Employees
+  - Faculty
   - Higher Education
-  - Race
   - Suny Institutions
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/ms8i-dzsk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/ms8i-dzsk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/r7v3-sp8n/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/r7v3-sp8n/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Enrollment trends by SUNY Sector for home institution students by their racial/ethnic group beginning Fall 2002.
+Number of employees at SUNY Institutions (System Administration and campuses) by total employees, faculty only, professional (non-faculty) only and other (non-faculty) only by employment status (full-time, part-time).
