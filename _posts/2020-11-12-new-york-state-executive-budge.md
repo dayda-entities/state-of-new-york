@@ -1,7 +1,7 @@
 ---
-title: New York State Executive Budget Appropriations 2016-17
-created: '2020-11-12T04:00:02.056833'
-modified: '2020-11-12T04:00:02.056842'
+title: New York State Executive Budget Appropriations 2018-2019
+created: '2020-11-12T04:00:01.460987'
+modified: '2020-11-12T04:00:01.460997'
 state: active
 type: dataset
 tags:
@@ -9,8 +9,8 @@ tags:
   - Ftes
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/hxy8-46bu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/hxy8-46bu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/hnhx-mk73/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/hnhx-mk73/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
