@@ -1,9 +1,9 @@
 ---
 title: >-
-  New York State Corporate Tax Credits by Size of Entire Net Income Beginning
-  Tax Year 2001
-created: '2020-11-12T03:59:45.177570'
-modified: '2020-11-12T03:59:45.177577'
+  New York State Corporate Tax Credits by Major Industry Group Beginning Tax
+  Year 2001
+created: '2020-11-12T03:59:36.761290'
+modified: '2020-11-12T03:59:36.761297'
 state: active
 type: dataset
 tags:
@@ -12,8 +12,8 @@ tags:
   - General Business Corporation Franchise Tax Credits
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/bsv4-53w8/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/bsv4-53w8/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/84qh-f5nv/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/84qh-f5nv/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
