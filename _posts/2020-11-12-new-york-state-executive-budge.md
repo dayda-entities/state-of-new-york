@@ -1,19 +1,17 @@
 ---
-title: 'New York State Executive Budget Capital Appropriations, as Amended 2015-2016'
-created: '2020-11-12T03:59:56.687935'
-modified: '2020-11-12T03:59:56.687945'
+title: New York State Executive Budget Appropriations 2020-21
+created: '2020-11-12T04:00:14.271476'
+modified: '2020-11-12T04:00:14.271486'
 state: active
 type: dataset
 tags:
-  - Appropriations
-  - Encumbrances
-  - Executive Amendment
-  - Reappropriations
+  - Appropriation
+  - Ftes
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/eyju-7cdr/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/eyju-7cdr/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/n7h2-63qe/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/n7h2-63qe/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This data set includes capital project appropriations and reappropriations as they relate to the 2015-16 Executive Budget with Executive Amendments.
+This data set includes appropriation, reappropriations and workforce levels for the current State fiscal year and upcoming budget year.
