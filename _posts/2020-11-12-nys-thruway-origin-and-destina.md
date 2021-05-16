@@ -1,9 +1,9 @@
 ---
 title: >-
   NYS Thruway Origin and Destination Points for All Vehicles - 1 Hour Intervals
-  2020
-created: '2020-11-12T04:00:22.557115'
-modified: '2020-11-12T04:00:22.557122'
+  2016
+created: '2020-11-12T03:59:20.149652'
+modified: '2020-11-12T03:59:20.149665'
 state: active
 type: dataset
 tags:
@@ -19,8 +19,8 @@ tags:
   - Traffic
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/r8tn-bjyq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/r8tn-bjyq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/23v4-2ycs/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/23v4-2ycs/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
