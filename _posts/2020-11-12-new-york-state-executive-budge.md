@@ -1,7 +1,7 @@
 ---
-title: New York State Executive Budget Capital Appropriations 2015-2016
-created: '2020-11-12T03:59:50.106209'
-modified: '2020-11-12T03:59:50.106219'
+title: New York State Executive Budget Capital Appropriations 2016-2017
+created: '2020-11-12T04:00:04.504704'
+modified: '2020-11-12T04:00:04.504711'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
   - Reappropriations
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/d7vq-82jt/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/d7vq-82jt/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/in6g-eta3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/in6g-eta3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This data set includes capital project appropriations and reappropriations as they relate to the 2015-16 Executive Budget
+This data set includes capital project appropriations and reappropriations as they relate to the 2016-17 Executive Budget
