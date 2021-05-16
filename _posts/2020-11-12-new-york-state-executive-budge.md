@@ -1,7 +1,7 @@
 ---
-title: 'New York State Executive Budget Capital Appropriations, as Amended 2018-2019'
-created: '2020-11-12T03:59:44.271478'
-modified: '2020-11-12T03:59:44.271488'
+title: 'New York State Executive Budget Capital Appropriations, as Amended 2017-2018'
+created: '2020-11-12T04:00:24.505592'
+modified: '2020-11-12T04:00:24.505602'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
   - Reappropriations
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/bhbm-nq56/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/bhbm-nq56/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/sgg9-ta9k/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/sgg9-ta9k/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This data set includes capital project appropriations and reappropriations as they relate to the FY 2019 Executive Budget, as amended.
+This data set includes capital project appropriations and reappropriations as they relate to the FY 2018 Executive Budget, as amended
