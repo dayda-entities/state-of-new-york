@@ -1,22 +1,22 @@
 ---
 title: >-
-  RSBS Single Family On-Site Inspections, Site-Level, New York State Residential
-  Statewide Baseline Study
-created: '2020-11-12T03:59:38.413608'
-modified: '2020-11-12T03:59:38.413619'
+  RSBS Single Family On-Site Inspections, Measure Level, New York State
+  Residential Statewide Baseline Study
+created: '2020-11-12T03:59:46.953632'
+modified: '2020-11-12T03:59:46.953639'
 state: active
 type: dataset
 tags:
   - Baseline Study
   - Energy Efficiency
   - Market Characterization
-  - Multifamily Homes
   - Rsbl Study
   - Rsbs
+  - Single Family Homes
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/8wa7-87p5/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/8wa7-87p5/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/c8sd-bzeb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/c8sd-bzeb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
