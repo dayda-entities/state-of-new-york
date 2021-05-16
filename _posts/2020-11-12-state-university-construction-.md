@@ -1,9 +1,7 @@
 ---
-title: >-
-  State University Construction Fund (SUCF) Request for Qualifications (RFQs)
-  Responders Beginning 2000
-created: '2020-11-12T03:59:46.233094'
-modified: '2020-12-03T23:54:37.352956'
+title: State University Construction Fund (SUCF) Contracts Beginning 1995
+created: '2020-11-12T03:59:47.654673'
+modified: '2020-12-03T23:54:40.225841'
 state: active
 type: dataset
 tags:
@@ -16,9 +14,9 @@ tags:
   - Suny
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/c6c2-n3if/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/c6c2-n3if/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/cfjm-ii27/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/cfjm-ii27/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Listing of design firms submitting qualifications for design procurements
+Capital Contracts (Design, Construction and associated services) including expended and encumbrance values.
