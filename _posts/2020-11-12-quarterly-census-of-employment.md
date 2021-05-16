@@ -1,7 +1,7 @@
 ---
-title: Quarterly Census of Employment and Wages Annual Data Beginning 2000
-created: '2020-11-12T04:00:24.615664'
-modified: '2020-11-12T04:00:24.615675'
+title: Quarterly Census of Employment and Wages Quarterly Data Beginning 2000
+created: '2020-11-12T03:59:49.455942'
+modified: '2020-12-03T23:54:40.940357'
 state: active
 type: dataset
 tags:
@@ -11,8 +11,8 @@ tags:
   - Payroll
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/shc7-xcbw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/shc7-xcbw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/cwsm-2ns3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/cwsm-2ns3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
