@@ -1,23 +1,23 @@
 ---
 title: >-
-  Rochester-Genesee Regional Transportation Authority (RGRTA) Rider Volumes 
-  Beginning 2006
-created: '2020-11-12T04:00:29.211714'
-modified: '2020-11-12T04:00:29.211725'
+  Rochester-Genesee Regional Transportation Authority (RGRTA) Percentage of
+  Buses Running On Time  Beginning 2009
+created: '2020-11-12T04:00:19.782597'
+modified: '2020-11-12T04:00:19.782605'
 state: active
 type: dataset
 tags:
   - Bus
+  - On Time Performance
   - Rgrta
-  - Ridership
   - Rochester
   - Transit
   - Transportation
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/tyap-tf2m/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/tyap-tf2m/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/q8n5-wxz3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/q8n5-wxz3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes ridership for the eight transportation subsidiaries managed by the Rochester Genesee Regional Transportation Authority. Ridership includes the total number of riders, passengers or boardings.
+This dataset identifies the percentage of Rochester-Genesee Regional Transportation Authority (RGRTA) buses that are on time. On-time performance includes the percentage of buses that leave their start point or arrive at a destination within 2:59 minutes early to 5:59 minutes late.
