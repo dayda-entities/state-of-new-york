@@ -1,19 +1,17 @@
 ---
 title: >-
   New York State Executive Budget Appropriations (Non-Capital), as Amended
-  2017-2018
-created: '2020-11-12T04:00:39.447051'
-modified: '2020-11-12T04:00:39.447062'
+  2016-2017
+created: '2020-11-12T04:00:39.584484'
+modified: '2020-11-12T04:00:39.584494'
 state: active
 type: dataset
-tags:
-  - Appropriation
-  - Ftes
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/xzhi-5jur/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/xzhi-5jur/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/y2qq-t2rf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/y2qq-t2rf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This data set includes appropriation, reappropriations and workforce levels as they related to the FY 2018 Executive Budget with Executive Amendments.
+This data set includes appropriation, reappropriations and workforce levels for the current State fiscal year and upcoming budget year, as they relate to the 2016-17 Executive Budget with Executive Amendments.
