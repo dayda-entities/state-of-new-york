@@ -1,21 +1,22 @@
 ---
 title: >-
-  State University of New York (SUNY) Employees By Employment Status Beginning
-  Fall 2011
-created: '2020-11-12T04:00:22.309791'
-modified: '2020-11-12T04:00:22.309798'
+  State University of New York (SUNY) Campus Locations with Websites, Enrollment
+  and Select Program Offerings
+created: '2020-11-12T03:59:24.165973'
+modified: '2020-11-12T03:59:24.165983'
 state: active
 type: dataset
 tags:
-  - Employees
-  - Faculty
+  - Campus
   - Higher Education
-  - Suny Institutions
+  - Instructional Programs
+  - Suny
+  - Website
 groups:
   - Local Government
-csv_url: 'https://data.ny.gov/api/views/r7v3-sp8n/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ny.gov/api/views/r7v3-sp8n/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ny.gov/api/views/3cij-nwhw/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ny.gov/api/views/3cij-nwhw/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Number of employees at SUNY Institutions (System Administration and campuses) by total employees, faculty only, professional (non-faculty) only and other (non-faculty) only by employment status (full-time, part-time).
+Campuses which comprise the State University of New York (SUNY) System. Highlights information on Undergraduate and Graduate enrollment as well as some program area offerings.
